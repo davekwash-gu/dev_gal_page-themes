@@ -13,7 +13,7 @@
 
 ?>
 
-	</div><!-- #content -->
+	</div>
 
 	<footer id="colophon" class="site-footer">
 		<?php get_template_part( 'template-parts/footer/footer', 'widgets' ); ?>
